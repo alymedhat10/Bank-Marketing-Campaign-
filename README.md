@@ -22,12 +22,21 @@ Imbalance data set : If dataset is imbalance then try to use techniques to handl
 Task:
 
 Business Understanding
+
 Data understanding
+
 Exploratory data Analysis
+
 Data Preparation
+
 Model Building ( Logistic Regression, ensemble, Boosting etc)
+
 Model Selection
+
 Performance reporting
+
 Deploy the model
+
 Converting ML metrics into Business metric and explaining result to business
+
 Prepare presentation for non technical persons.
